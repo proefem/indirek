@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=5400000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1280x720
+https://dwamdstream107.akamaized.net:443/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
